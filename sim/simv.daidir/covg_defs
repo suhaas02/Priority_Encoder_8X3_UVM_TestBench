@@ -1,0 +1,71 @@
+global coverage_group 0 test_pkg::scoreboard::packet __coverage_scoreboard.packet unused_scoreboard_packet_loop_label test_pkg 0 1 0 0 0  ( 0 
+)
+ 1 1
+ 0 107 /home1/BPRN08/VegiJ/VLSI_RN/UVM_LABS/UVM_Verification_Projects/priority_encoder_8x3/sim/../tb/scoreboard.sv
+ 6 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+0
+0
+ 3 din 7 0 0 0 0 0 41 scoreboard::test_pkg_scoreboard_packet_fn 41 scoreboard::test_pkg_scoreboard_packet_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 8 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 dout 17 0 0 0 0 0 43 scoreboard::test_pkg_scoreboard_packet_fn_0 43 scoreboard::test_pkg_scoreboard_packet_fn_0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 3 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group

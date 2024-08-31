@@ -1,0 +1,146 @@
+Group : test_pkg::scoreboard::packet
+
+===============================================================================
+Group : test_pkg::scoreboard::packet
+===============================================================================
+SCORE  WEIGHT GOAL   AT LEAST AUTO BIN MAX PRINT MISSING 
+ 83.59 1      100    1        64           64            
+
+
+Source File(s) : 
+
+/home1/BPRN08/VegiJ/VLSI_RN/UVM_LABS/UVM_Verification_Projects/priority_encoder_8x3/sim/../tb/scoreboard.sv
+
+
+
+-------------------------------------------------------------------------------
+
+Summary for Group   test_pkg::scoreboard::packet
+
+
+
+CATEGORY  EXPECTED UNCOVERED COVERED PERCENT 
+Variables 72       14        58      83.59   
+
+
+Variables for Group  test_pkg::scoreboard::packet
+
+
+VARIABLE EXPECTED UNCOVERED COVERED PERCENT GOAL WEIGHT AT LEAST AUTO BIN MAX COMMENT 
+din      64       13        51      79.69   100  1      1        64                   
+dout     8        1         7       87.50   100  1      1        8                    
+
+
+-------------------------------------------------------------------------------
+
+Summary for Variable din
+
+
+CATEGORY                     EXPECTED UNCOVERED COVERED PERCENT 
+Automatically Generated Bins 64       13        51      79.69   
+
+
+Automatically Generated Bins for din
+
+
+Uncovered bins
+
+NAME                            COUNT AT LEAST NUMBER 
+[auto[12:15]]                   0     1        1      
+[auto[80:83]]                   0     1        1      
+[auto[88:91] - auto[92:95]]     --    --       2      
+[auto[148:151]]                 0     1        1      
+[auto[156:159]]                 0     1        1      
+[auto[172:175]]                 0     1        1      
+[auto[184:187] - auto[188:191]] --    --       2      
+[auto[196:199] - auto[200:203]] --    --       2      
+[auto[228:231]]                 0     1        1      
+[auto[244:247]]                 0     1        1      
+
+
+Covered bins
+
+NAME          COUNT AT LEAST 
+auto[0:3]     1     1        
+auto[4:7]     1     1        
+auto[8:11]    3     1        
+auto[16:19]   4     1        
+auto[20:23]   2     1        
+auto[24:27]   3     1        
+auto[28:31]   1     1        
+auto[32:35]   1     1        
+auto[36:39]   2     1        
+auto[40:43]   2     1        
+auto[44:47]   4     1        
+auto[48:51]   2     1        
+auto[52:55]   2     1        
+auto[56:59]   5     1        
+auto[60:63]   1     1        
+auto[64:67]   2     1        
+auto[68:71]   2     1        
+auto[72:75]   2     1        
+auto[76:79]   1     1        
+auto[84:87]   1     1        
+auto[96:99]   4     1        
+auto[100:103] 1     1        
+auto[104:107] 5     1        
+auto[108:111] 2     1        
+auto[112:115] 2     1        
+auto[116:119] 1     1        
+auto[120:123] 2     1        
+auto[124:127] 1     1        
+auto[128:131] 1     1        
+auto[132:135] 1     1        
+auto[136:139] 1     1        
+auto[140:143] 2     1        
+auto[144:147] 2     1        
+auto[152:155] 3     1        
+auto[160:163] 3     1        
+auto[164:167] 1     1        
+auto[168:171] 2     1        
+auto[176:179] 1     1        
+auto[180:183] 3     1        
+auto[192:195] 2     1        
+auto[204:207] 1     1        
+auto[208:211] 1     1        
+auto[212:215] 1     1        
+auto[216:219] 1     1        
+auto[220:223] 2     1        
+auto[224:227] 1     1        
+auto[232:235] 1     1        
+auto[236:239] 2     1        
+auto[240:243] 3     1        
+auto[248:251] 3     1        
+auto[252:255] 1     1        
+
+
+-------------------------------------------------------------------------------
+
+Summary for Variable dout
+
+
+CATEGORY                     EXPECTED UNCOVERED COVERED PERCENT 
+Automatically Generated Bins 8        1         7       87.50   
+
+
+Automatically Generated Bins for dout
+
+
+Uncovered bins
+
+NAME      COUNT AT LEAST NUMBER 
+[auto[1]] 0     1        1      
+
+
+Covered bins
+
+NAME    COUNT AT LEAST 
+auto[0] 1     1        
+auto[2] 1     1        
+auto[3] 3     1        
+auto[4] 10    1        
+auto[5] 19    1        
+auto[6] 26    1        
+auto[7] 39    1        
+
+
